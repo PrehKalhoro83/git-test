@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 trying to learn git amend commands 
 amend krna means ek he features br br changes krny ky bd bi ek he commit ho 
 git amend used for decrease multiple commit in one feature 
+=======
+trying to learn git amend commands 
+>>>>>>> a080c45687bb786f5f43a0614abf803a4333157f
